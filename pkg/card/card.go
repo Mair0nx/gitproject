@@ -7,7 +7,7 @@ import (
 func Issue() types.Card {
 	return types.Card{
 		Balance:  0,
-		Currency: types.Currency("TJS"),
+		Currency: types.Currency("USD"),
 	}
 }
 
