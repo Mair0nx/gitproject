@@ -1,4 +1,4 @@
-module github.com/Mair0nx/gitproject
+module github.com/Mair0nx/gitproject/v2.0.1
 
 go 1.18
 
