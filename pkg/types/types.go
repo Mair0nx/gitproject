@@ -24,7 +24,7 @@ type Card struct {
 }
 
 var LocalCard = Card{
-	Balance:  9000_00,
+	Balance:  9001_00,
 	Currency: Euros,
 	Type:     Gold,
 	Activity: Active,
@@ -41,7 +41,7 @@ const (
 	Somoni  = "TJS"
 	Rubls   = "RUB"
 	Dollars = "USD"
-	Euros = "EUR"
+	Euros   = "EUR"
 )
 
 const (
